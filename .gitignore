@@ -1,5 +1,0 @@
-node_modules/
-app/android/
-app/www/config.js
-*.apk
-.DS_Store
